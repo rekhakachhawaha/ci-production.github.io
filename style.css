@@ -1,0 +1,25 @@
+
+.box{
+    width: 700px;
+    height: auto;
+}
+.text{
+    margin-top: 10rem;
+    text-align: center;
+}
+.Redbg{
+    height: 400px;
+    text-align: center;
+    padding-top: 5rem;
+    
+}
+.img-fluid1{
+    height: 150px;
+    width: 150px;
+}
+#box1{
+    height: 200px;
+    text-align: center;
+    padding-top: 5rem;
+    padding-left: 10rem;
+}
